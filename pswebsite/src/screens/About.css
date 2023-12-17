@@ -1,0 +1,75 @@
+.about{
+    background-color: black;
+  }
+  
+  .maincontainer{
+      display: flex;
+      
+    }
+  .box1{
+    
+      background-color: grey;
+      width: 32rem;
+      margin: 34px;
+      padding: 34px;
+      height: 12rem;
+    }
+  .box2{
+      background-color: grey;
+      width: 32rem;
+      margin: 34px;
+      padding: 34px;
+      height: 12rem;
+    }
+  .box1 p{
+      margin-left: 40px;
+      font-size: 2rem;
+      margin-top: 20px;
+    
+    }
+  .box2 p{
+      margin-left: 40px;
+      font-size: 2.2rem;
+      margin-top: 20px;
+    
+    }
+    
+    .boxbutton {
+      text-align: end;
+      flex-direction: column;
+      display: flex;
+      position: absolute;
+      margin-left: 26rem;
+      margin-top: -2rem;
+  }
+  
+    
+  .vision{
+      margin-top: 34px;
+      margin-right: 21px;
+      padding: 34px;
+      background-color: black;
+      color: white;
+      height: 12rem;
+      font-size: 20px;
+    }
+  .vision p{
+      font-size: 1.6rem;
+      color: white;
+    
+    }
+  .about2{
+      background-color: black;
+    }
+    .aboutpage{
+        padding: 44px;
+        width: 100%;
+        color: white;
+        font-size: 20px;
+      }
+.aboutpage p{
+        font-size: 30px;
+    }
+.font{
+  font-family: 'Audiowide', sans-serif;
+}
